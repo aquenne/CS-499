@@ -92,7 +92,7 @@ In this enhancement, I replaced legacy SQLiteOpenHelper raw string queries with 
 
 ## Repository Structure
 
-```text
+<pre><code>
 CS-499/
 ├── README.md                            # Main ePortfolio Site Render
 ├── original-code/                       # Complete original CS 360 project
