@@ -49,7 +49,7 @@ Adopting a proactive security mindset, by anticipating adversarial exploits duri
 
 The screencast walkthrough analyzes legacy code features, identifies target areas for structural and security improvements, and presents planned capstone enhancements.
 
-**[Watch the Informal Code Review Video on Google Drive](https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_FILE_ID_HERE/view?usp=sharing)**
+**[Watch the Informal Code Review Video on Google Drive](https://drive.google.com/file/d/1g_RJIdc7K2GFqk2geg2kVA3SvjavFt_2/view?usp=sharing)**
 
 ---
 
