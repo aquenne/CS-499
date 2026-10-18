@@ -4,7 +4,7 @@
 ---
 
 ## Quick Navigation
-* **Code Review Video:** [Watch Walkthrough on Google Drive](https://drive.google.com/file/d/1g_RJIdc7K2GFqk2geg2kVA3SvjavFt_2/view?usp=sharing))
+* **Code Review Video:** [Watch Walkthrough on Google Drive](https://drive.google.com/file/d/1g_RJIdc7K2GFqk2geg2kVA3SvjavFt_2/view?usp=sharing)
 * **Original Codebase (CS 360):** [Browse Original Code Folder](https://github.com/aquenne/CS-499/tree/main/original-code)
 * **Enhanced Codebase (CS 499):** [Browse Enhanced Code Folder](https://github.com/aquenne/CS-499/tree/main/enhanced-code)
 * **Documentation & Narratives:** [Browse Documentation Folder](https://github.com/aquenne/CS-499/tree/main/documentation)
